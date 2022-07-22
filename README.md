@@ -18,7 +18,7 @@
   <li> 26 anos </li>
   <li> Desenvolvedora júnior e designer </li>
   <li> Estudante de design de mídias digitais na Fatec Barueri </li>
-  <li> Tenho o objetivo de atuar na área de desenvolvimento e participar de projetos que melhorem a vida das pessoas </li>
+  <li> Tenho o objetivo de participar de projetos que melhorem a vida das pessoas </li>
 </ul>
 
   
